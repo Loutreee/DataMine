@@ -1,0 +1,2 @@
+# DataMine
+A statistics plugin
