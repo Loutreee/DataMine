@@ -1,0 +1,8 @@
+name: DataMine
+version: '1.0-SNAPSHOT'
+main: org.loutreeee.dataMine.DataMine
+api-version: '1.21'
+prefix: DATAMINED SERVER
+load: STARTUP
+authors: [ Loutreeee ]
+description: A statistics plugin
