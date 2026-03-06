@@ -33,3 +33,47 @@ points:
     NETHER_QUARTZ_ORE: 3
     NETHER_GOLD_ORE: 6
     ANCIENT_DEBRIS: 20
+
+  mobs:
+
+    # ===== HOSTILE OVERWORLD =====
+
+    ZOMBIE: 2
+    SKELETON: 3
+    SPIDER: 2
+    CREEPER: 4
+    WITCH: 6
+    ENDERMAN: 6
+    SLIME: 2
+    CAVE_SPIDER: 4
+    PHANTOM: 4
+    DROWNED: 3
+    HUSK: 3
+    STRAY: 4
+
+    # ===== NETHER =====
+
+    ZOMBIFIED_PIGLIN: 3
+    PIGLIN: 4
+    PIGLIN_BRUTE: 10
+    BLAZE: 8
+    MAGMA_CUBE: 4
+    GHAST: 8
+    WITHER_SKELETON: 10
+
+    # ===== RAID / STRUCTURE =====
+
+    PILLAGER: 4
+    VINDICATOR: 7
+    EVOKER: 12
+    VEX: 6
+    RAVAGER: 15
+
+    # ===== BOSSES =====
+
+    ENDER_DRAGON: 500
+    WITHER: 400
+
+web:
+  enabled: true
+  port: 8080
